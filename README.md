@@ -22,6 +22,12 @@
 |----------------------|----------------------------------|
 | <p align="center"><img src="https://academy.desecsecurity.com/uploads/badges/pentest_expert.png" width="100"></p> | <p align="center"><img src="https://academy.desecsecurity.com/uploads/badges/linux_privilege.png" width="100"></p> |
 
+#### TryHackMe Badges
+🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70%
+
+#### HackTheBox Badges
+🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70%
+
 #### Principais linguagens de programação
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> 
