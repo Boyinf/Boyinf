@@ -1,6 +1,4 @@
 ### 😁 Hello everyone! Welcome to my Github profile. 
-#### My name is Gustavo!
-
 
 <br>
 
@@ -14,11 +12,15 @@
 
 #### Cybersecurity Certifications
 
-<img src="https://us-east-1.graphassets.com/AwCYQkwjSUCbfkm08Ct1Mz/cmcc3wze0lx3007irps13e6k3" width="40" height="40"/> <img src="https://cdn.ead.guru/74/media/public/websites/sites-solyd/solyd_one_sycp_logo.webp" width="40" height="40"/> 
+| eJPT Certification | SYCP Certification | CAPC Certification |
+|-------------------|---------------------------------------|--------------------|
+| <p align="center"><img src="https://us-east-1.graphassets.com/AwCYQkwjSUCbfkm08Ct1Mz/cmcc3wze0lx3007irps13e6k3" width="100"></p> | <p align="center"><img src="https://cdn.ead.guru/74/media/public/websites/sites-solyd/solyd_one_sycp_logo.webp" width="100"></p> | <p align="center"><img src="https://images.credly.com/size/340x340/images/712a773b-9acc-4bc8-90fa-6afdfc95da1e/image.png" width="100"></p> |
 
 #### Desec Security Badges - Award
 
-<img src="https://academy.desecsecurity.com/uploads/badges/pentest_expert.png" width="40" height="40"/> <img src="https://academy.desecsecurity.com/uploads/badges/linux_privilege.png" width="40" height="40"/> 
+| Pentest Expert Badge | Linux Privilege Escalation Badge |
+|----------------------|----------------------------------|
+| <p align="center"><img src="https://academy.desecsecurity.com/uploads/badges/pentest_expert.png" width="100"></p> | <p align="center"><img src="https://academy.desecsecurity.com/uploads/badges/linux_privilege.png" width="100"></p> |
 
 #### Principais linguagens de programação
 
