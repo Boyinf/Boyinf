@@ -14,7 +14,7 @@
 
 #### Cybersecurity Certifications
 
-eJPT <img src="https://us-east-1.graphassets.com/AwCYQkwjSUCbfkm08Ct1Mz/cmcc3wze0lx3007irps13e6k3" width="40" height="40"/> SYCP <img src="https://cdn.ead.guru/74/media/public/websites/sites-solyd/solyd_one_sycp_logo.webp" width="40" height="40"/> 
+<img src="https://us-east-1.graphassets.com/AwCYQkwjSUCbfkm08Ct1Mz/cmcc3wze0lx3007irps13e6k3" width="40" height="40"/> <img src="https://cdn.ead.guru/74/media/public/websites/sites-solyd/solyd_one_sycp_logo.webp" width="40" height="40"/> 
 
 #### Desec Security Badges - Award
 
