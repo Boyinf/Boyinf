@@ -14,7 +14,7 @@
 
 #### Cybersecurity Certifications
 
-<img src="https://templates.images.credential.net/16947192901898719699151540862834.png" width="40" height="40"/> <img src="https://blog.solyd.com.br/wp-content/uploads/2023/02/certiso.jpg" width="40" height="40"/> 
+eJPT <img src="https://us-east-1.graphassets.com/AwCYQkwjSUCbfkm08Ct1Mz/cmcc3wze0lx3007irps13e6k3" width="40" height="40"/> SYCP <img src="https://cdn.ead.guru/74/media/public/websites/sites-solyd/solyd_one_sycp_logo.webp" width="40" height="40"/> 
 
 #### Desec Security Badges - Award
 
