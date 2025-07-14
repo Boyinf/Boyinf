@@ -12,6 +12,10 @@
 
 <br>
 
+#### Cybersecurity Certifications
+
+<img src="https://templates.images.credential.net/16947192901898719699151540862834.png" width="40" height="40"/> <img src="https://blog.solyd.com.br/wp-content/uploads/2023/02/certiso.jpg" width="40" height="40"/> 
+
 #### Desec Security Badges - Award
 
 <img src="https://academy.desecsecurity.com/uploads/badges/pentest_expert.png" width="40" height="40"/> <img src="https://academy.desecsecurity.com/uploads/badges/linux_privilege.png" width="40" height="40"/> 
