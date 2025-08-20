@@ -22,11 +22,6 @@
 |----------------------|----------------------------------|
 | <p align="center"><img src="https://academy.desecsecurity.com/uploads/badges/pentest_expert.png" width="100"></p> | <p align="center"><img src="https://academy.desecsecurity.com/uploads/badges/linux_privilege.png" width="100"></p> |
 
-#### TryHackMe Badges
-🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70%
-
-#### HackTheBox Badges
-🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70%
 
 #### Principais linguagens de programação
 
