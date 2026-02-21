@@ -4,8 +4,7 @@
 
 <div>
 <a href="https://github.com/Boyinf">
-<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boyinf&layout=compact&langs_count=7&theme=dracula"/>
-<img height="120em" src="https://github-readme-stats.vercel.app/api?username=Boyinf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
 </div>
 
 <br>
@@ -15,13 +14,6 @@
 | eJPT Certification | SYCP Certification | CAPC Certification |
 |-------------------|---------------------------------------|--------------------|
 | <p align="center"><img src="https://us-east-1.graphassets.com/AwCYQkwjSUCbfkm08Ct1Mz/cmcc3wze0lx3007irps13e6k3" width="100"></p> | <p align="center"><img src="https://cdn.ead.guru/74/media/public/websites/sites-solyd/solyd_one_sycp_logo.webp" width="100"></p> | <p align="center"><img src="https://images.credly.com/size/340x340/images/712a773b-9acc-4bc8-90fa-6afdfc95da1e/image.png" width="100"></p> |
-
-#### Desec Security Badges - Award
-
-| Pentest Expert Badge | Linux Privilege Escalation Badge |
-|----------------------|----------------------------------|
-| <p align="center"><img src="https://academy.desecsecurity.com/uploads/badges/pentest_expert.png" width="100"></p> | <p align="center"><img src="https://academy.desecsecurity.com/uploads/badges/linux_privilege.png" width="100"></p> |
-
 
 #### Principais linguagens de programação
 
